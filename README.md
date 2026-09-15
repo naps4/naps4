@@ -1,12 +1,5 @@
 <div align="center
 
-  <div align="center">
-
-# 👋 Nugroho Adi Pamungkas
-### Web Developer | NLP & AI Enthusiast
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:0d1117&height=200&section=header&text=Nugroho%20Adi%20Pamungkas&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20NLP%20%26%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/nugroho-adi-pamungkas">
