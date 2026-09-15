@@ -30,15 +30,15 @@
 <td width="50%" valign="top">
 
 **Full-Stack Developer** — Intern
-*CBP Management, 2026*
-Built the CBP Management website & Job Portal (front-end + back-end), feature integration, debugging, and testing.
+*PT Herbatech Innopharma Industry, Purbalingga · 2026*
+Developed the CBP Management website & Job Portal (front-end + back-end), feature integration, debugging, and testing.
 
 </td>
 <td width="50%" valign="top">
 
 **Frontend Developer** — Intern
-*WARNU MSME App, 2025*
-Built a responsive UI in Kotlin, debugging and refining the interface for better UX.
+*PT Imersa Solusi Teknologi, Yogyakarta · 2025*
+Built a responsive UI for the WARNU MSME app (Kotlin), debugging and refining the interface for better UX.
 
 </td>
 </tr>
